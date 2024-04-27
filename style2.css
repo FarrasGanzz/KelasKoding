@@ -1,0 +1,30 @@
+section{
+    text-align: center;
+    border: 1px solid white;
+    margin-top: 15%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: black;
+    color: aliceblue;
+    display: block;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 8%;
+    ;
+    
+}
+body{
+    background-color: black;
+}
+.kotak_2{
+    
+    border: 2px solid white;
+    background-color: black;
+    border: none;
+    outline: none;
+ 
+    color: aliceblue;
+    border-radius:40%;
+    height: 100%;
+    width: 100%;
+}
